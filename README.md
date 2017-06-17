@@ -1,5 +1,3 @@
-This project was creates as a test task for AXIS
-
 ## Installation
 
 In the project directory, you should run:
